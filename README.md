@@ -50,4 +50,4 @@ Website Structure – By using semantic tags, the project ensures better accessi
 Reusable Template – The code can be customized and extended further with CSS and JavaScript to create a more professional, interactive, and visually appealing personal portfolio website.
 
 # OUTPUT
-# 
+# <img width="276" height="659" alt="Image" src="https://github.com/user-attachments/assets/746beed8-50fd-4b9d-be24-56c16aa9cb3d" />
